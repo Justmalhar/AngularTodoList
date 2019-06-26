@@ -6,4 +6,4 @@ Node.js
 Angular
 Rest API
 
-![Todo List Angular](https://github.com/Justmalhar/MapirTodoList/Result.png?raw=true "Todo Angular")
+![Todo List Angular](https://raw.githubusercontent.com/Justmalhar/MapirTodoList/master/Result.png "Todo Angular")

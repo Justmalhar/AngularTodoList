@@ -1,0 +1,8 @@
+.strikethrough{
+    text-decoration: line-through;
+}
+
+body{
+    background-color: #5cbad6;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
